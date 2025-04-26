@@ -1,6 +1,7 @@
 from litellm import completion
 
 response = completion(
+    
     # enter the desired model name here, e.g., "llama2-7b-chat" or "llama2-13b-chat"
     # model="ollama/[MODEL_NAME]", 
     
